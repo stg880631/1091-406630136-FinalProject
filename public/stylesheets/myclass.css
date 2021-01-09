@@ -1,0 +1,19 @@
+.col-lg-9{
+    margin-top:90px;
+    margin-bottom: 100px;
+}
+.num{
+    background-color: rgb(228, 122, 83);
+   }
+   .time{
+   background-color: rgb(255, 174, 160);
+   }
+   .week{
+   background-color: rgb(44, 158, 184);
+   }
+   .clas{
+   background-color: rgb(140, 242, 140);
+   }
+   .info{
+   background-color: gray;
+   }
